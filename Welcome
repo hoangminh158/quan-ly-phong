@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Hệ thống kết nối và môi giới căn hộ dịch vụ, phòng trọ HM Home">
+    <meta name="keywords" content="phòng trọ, căn hộ dịch vụ, nhà nguyên căn, quản lý, hệ thống web">
+    <meta name="author" content="Nguyễn Hữu Hoàng Minh">
+    <title>Thông tin phòng trọ, căn hộ dịch vụ</title>
+    <style>
+        body {
+            font-family: Times New Roman, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        main {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background: #333;
+            color: white;
+            position: absolute;
+            bottom: 0;
+            width: 100%
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hệ thống kết nối và môi giới Bất động sản HM Home</h1>
+    <header>
+    <main>
+        <p>Xin chào! Đây là trang web kết nối và môi giới căn hộ dịch vụ, phòng trọ HM Home!</p>
+        <p>Trang web này được tạo bởi Nguyễn Hữu Hoàng Minh - founder HM Home. Mọi thông tin cần thiết hãy liên hệ: 0931834691</p>
+    </main>
+    <footer>
+        &copy; 2024 - Thiết kế bởi Nguyễn Hữu Hoàng Minh
+    </footer>
+</body>
+</html>
